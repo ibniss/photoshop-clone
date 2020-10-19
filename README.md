@@ -8,6 +8,8 @@ The aim of the coursework was to implement basic computer graphics algorithms fr
 - cross-correlation
 - image histograms
 
+![Demo](demo.png?raw=true)
+
 ## Technologies used
 
 I have implemented the project using
